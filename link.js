@@ -1,1 +1,1 @@
-const offerLink = "https://facebook.com";
+const offerLink = "";
